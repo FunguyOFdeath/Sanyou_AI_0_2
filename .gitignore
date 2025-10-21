@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & cache
+logs/
+*.log
+
+# Audio tests / tmp
+*.wav
+tmp/
+cache/
+
+# Models (не коммитим большие веса)
+models/
+*.pt
+*.bin
+*.onnx
+*.tflite
+
+# Whisper cache (обычно скачивается в пользовательский каталог, но на всякий случай)
+.whisper/

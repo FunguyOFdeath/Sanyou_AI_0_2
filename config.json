@@ -1,0 +1,10 @@
+{
+  "device_index": 0,
+  "gain_db": 0.0,
+  "noise_reduction": true,
+  "model_name": "small",
+  "sample_rate": 16000,
+  "lang_mode": "standard",
+  "chosen_lang": "zh",
+  "ui_language": "ru"
+}

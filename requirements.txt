@@ -1,0 +1,11 @@
+torch==2.8.0+cpu
+torchvision==0.23.0+cpu
+torchaudio==2.8.0+cpu
+--index-url https://download.pytorch.org/whl/cpu
+
+openai-whisper>=20250625
+sounddevice>=0.5.3
+numpy>=1.26.4
+scipy>=1.12.0
+PyQt5>=5.15.10
+tqdm>=4.67.1
